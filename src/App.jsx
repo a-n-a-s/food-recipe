@@ -49,7 +49,7 @@ function App() {
           Recipe Finder
         </AppName>
         <SearchName>
-          <BiSearch style={{ color: "black", width: "32px", height: "32px" }} />
+          <BiSearch style={{ color: "black", width: "28px", height: "28px" }} />
           <SearchInput placeholder="Search Recipe " onChange={onTextChange} />
         </SearchName>
       </Header>
